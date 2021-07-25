@@ -1345,5 +1345,9 @@
 		<!-- Does not support new vala -->
 		<Package>pdfpc</Package>
 		<Package>pdfpc-dbginfo</Package>
+
+		<!-- kodi: use the flatpak version instead -->
+		<Package>kodi</Package>
+		<Package>kodi-platform</Package>
 	</Obsoletes>
 </PISI>

@@ -971,5 +971,7 @@
 		<Package>pilot-link-devel</Package>
 		<Package>pdfpc</Package>
 		<Package>pdfpc-dbginfo</Package>
+		<Package>kodi</Package>
+		<Package>kodi-platform</Package>
 	</Obsoletes>
 </PISI>
